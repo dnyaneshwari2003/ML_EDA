@@ -16,4 +16,4 @@ To study and apply Data Preprocessing techniques on given dataset. Prepare a tit
 1. heart.csv
 2. titanic.csv
 
-Note : tou can source this datasets from kaggle 
+Note : you can source this datasets from kaggle 
